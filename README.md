@@ -1,2 +1,3 @@
-# This is Hungking Hsi's blog.
+# indeex
 
+This is my personal blog  [Indeex](http://hungking.cc/thecodeway)
