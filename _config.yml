@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: "/thecodeway" # set it to "/" if use for personal site. The subpath of your site, e.g. /blog/
 baseurl: "/thecodeway" # the subpath of your site, e.g. /blog/
-url: "http://houngkinghsi.github.com/thecodeway" # the base hostname & protocol for your site
+url: "http://hungking.cc/thecodeway" # the base hostname & protocol for your site
 imageurl: "https://source.unsplash.com/category/nature/2600x500" #"https://unsplash.it/2600/500?random"
 
 # THEME-SPECIFIC CONFIGURATION
